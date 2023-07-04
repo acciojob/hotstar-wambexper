@@ -1,2 +1,2 @@
 # hotstar-wambexper
-The concept of EntyDTO is superb
+The concept of EntryDTO is superb
